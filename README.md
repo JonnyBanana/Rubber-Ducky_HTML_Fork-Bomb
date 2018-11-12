@@ -2,6 +2,8 @@
 a quickly Rubber Ducky HTML Fork Bomb Attack
 
 
+![Alt text](https://raw.githubusercontent.com/JonnyBanana/HTML-Fork-Bomb.github.io/master/img/61l9sMFJ7pL._SX425_.jpg)
+
 <h3> V1 </h3>
 
 REM HTML Fork Bomb by Jonny Banana </BR>
