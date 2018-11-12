@@ -1,5 +1,5 @@
 # Rubber-Ducky_HTML_Fork-Bomb
-a quickly Rubber Ducky HTML Fork Bomb Attack
+A quickly Rubber Ducky HTML Fork Bomb Attack
 
 
 ![Alt text](https://raw.githubusercontent.com/JonnyBanana/HTML-Fork-Bomb.github.io/master/img/61l9sMFJ7pL._SX425_.jpg)
